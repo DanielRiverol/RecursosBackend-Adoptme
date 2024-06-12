@@ -1,2 +1,4 @@
 node_modules
 /test
+
+mongodb+srv://daniel:cursoBackend2024_@cluster0.vark72b.mongodb.net/
